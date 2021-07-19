@@ -1,8 +1,13 @@
-## Hello! I'm Jackson Lima
+## Hello! I'm Jackson Lima 🤙🇧🇷
 
 <a href="https://www.instagram.com/jacksonlmp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jacksonlmp17.jl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jackson-lima-a06b55172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+## 🙇 About me
+
+- I'm a Computer Science student at UFAPE-PE, Brazil.
+- I'm currently learning **Laravel** and **Java**.
 
 ## 👨🏻‍💻 Stats
  <div>
@@ -30,9 +35,12 @@
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
 </div>
+
+## 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&redirect=true)
   
-  ##
- 
+ ## 🐍 Snake
 <div> 
   
  
