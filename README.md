@@ -7,7 +7,8 @@
 ## 🙇 About me
 
 - I'm a Computer Science student at UFAPE-PE, Brazil.
-- I'm currently learning **Laravel** and **Java**.
+- I'm currently learning **Laravel**, **Java** and **Machine Learning**.
+- Interest in **Machine Learning**, **Artificial intelligence** and **WEB Development**.
 
 ## 👨🏻‍💻 Stats
  <div>
