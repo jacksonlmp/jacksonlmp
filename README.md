@@ -42,6 +42,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&redirect=true)
 
+
   
  ## 🐍 Snake
 <div> 
@@ -51,3 +52,8 @@
   ![Snake animation](https://github.com/jacksonlmp/jacksonlmp/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+  ## 💳 Dev Card
+
+<a href="https://app.daily.dev/jacksonlmp"><img src="https://api.daily.dev/devcards/ec4eadf8da0b4c7f899e0d94994b79a6.png?r=2og" width="400" alt="Jackson Lima's Dev Card"/></a>
