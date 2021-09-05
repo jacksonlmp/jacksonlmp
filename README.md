@@ -8,7 +8,7 @@
 
 - I'm a Computer Science student at UFAPE-PE, Brazil.
 - I'm currently learning **Laravel** & **Ruby on Rails**.
-- Interest in **Machine Learning**, **Artificial intelligence** and **WEB Development**.
+- Interest in **Machine Learning**, **Artificial intelligence** **WEB Development** and **Mobile**.
 
 ## 👨🏻‍💻 Stats
  <div>
@@ -35,6 +35,10 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   
 </div>
 
