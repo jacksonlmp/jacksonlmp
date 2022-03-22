@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/jackson-lima-a06b55172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ## 🙇 About me
-
-- I'm a Computer Science student at UFAPE-PE, Brazil.
-- I'm currently learning **Laravel** & **Data Science**.
-- Interest in **Machine Learning**, **Artificial intelligence** **WEB Development** and **Mobile**.
+- Support Analyst at Show Tecnologia.
+- Computer Science student at UFAPE-PE, Brazil.
+- Currently learning **Laravel** & **Data Science**.
+- Interest in **Machine Learning**, **Data Science**, **WEB Development** and **Mobile**.
 
 ## 👨🏻‍💻 Stats
  <div>
@@ -58,6 +58,3 @@
 </div>
 
 
-  ## 💳 Dev Card
-
-<a href="https://app.daily.dev/jacksonlmp"><img src="https://api.daily.dev/devcards/ec4eadf8da0b4c7f899e0d94994b79a6.png?r=2og" width="400" alt="Jackson Lima's Dev Card"/></a>
