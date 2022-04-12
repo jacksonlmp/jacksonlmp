@@ -8,7 +8,7 @@
 - Support Analyst at Show Tecnologia.
 - Computer Science student at UFAPE-PE, Brazil.
 - Currently learning **Laravel** & **Data Science**.
-- Interest in **Machine Learning**, **Data Science**, **WEB Development** and **Mobile**.
+- Interest in **Machine Learning**, **Data Science** & **WEB Development**.
 
 ## 👨🏻‍💻 Stats
  <div>
