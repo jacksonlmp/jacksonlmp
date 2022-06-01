@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/jackson-lima-a06b55172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ## 🙇 About me
-- Support Analyst at Show Tecnologia.
+- Software Developer at Daccord Music.
 - Computer Science student at UFAPE-PE, Brazil.
 - Currently learning **Laravel** & **Data science**.
 - Interest in **Mobile development**, **Data science** & **Web development**.
