@@ -7,7 +7,7 @@
 ## 🙇 About me
 - Software Developer at Daccord Music.
 - Computer Science student at UFAPE-PE, Brazil.
-- Currently learning **Laravel** & **Data science**.
+- Currently learning **Laravel** & **Kotlin**.
 - Interest in **Mobile development**, **Data science** & **Web development**.
 
 ## 👨🏻‍💻 Stats
