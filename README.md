@@ -50,8 +50,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&redirect=true)
 
-[<img src="https://spotify-now-playing-jacksonlmp.vercel.app/api/spotify" alt="jacksonlmp Spotify Playing" width="350" />](https://open.spotify.com/user/jacksonlmp)
-
 
   
  ## 🐍 Snake
