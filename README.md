@@ -4,6 +4,10 @@
   <a href = "mailto:jacksonlmp17.jl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jackson-lima-a06b55172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+<a>[![GitHub jacksonlmp](https://img.shields.io/github/followers/jacksonlmp?label=follow&style=social)](https://github.com/jacksonlmp)
+<sub>ㅤ</sub>
+</a>
+  
 ## 🙇 About me
 - Software Developer at Daccord Music.
 - Computer Science student at UFAPE-PE, Brazil.
@@ -45,6 +49,8 @@
 ## 🎧 Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&redirect=true)
+
+[<img src="https://spotify-now-playing-jacksonlmp.vercel.app/api/spotify" alt="jacksonlmp Spotify Playing" width="350" />](https://open.spotify.com/user/jacksonlmp)
 
 
   
