@@ -9,10 +9,10 @@
 </a>
   
 ## 🙇 About me
-- Software Developer at Daccord Music.
+- Mobile Developer at Daccord Music.
 - Computer Science student at UFAPE-PE, Brazil.
-- Currently learning **Laravel** & **Kotlin**.
-- Interest in **Mobile development**, **Data science** & **Web development**.
+- Currently learning **Laravel**, **Kotlin** % **Flutter**.
+- Interest in **Mobile development** & **Web development**.
 
 ## 👨🏻‍💻 Stats
  <div>
