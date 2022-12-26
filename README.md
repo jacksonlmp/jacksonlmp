@@ -11,7 +11,7 @@
 ## 🙇 About me
 - Mobile Developer at Daccord Music.
 - Computer Science student at UFAPE-PE, Brazil.
-- Currently learning **Laravel**, **Kotlin** & **Flutter**.
+- Currently learning **Node.js**, **React** & **Flutter**.
 - Interest in **Mobile development** & **Web development**.
 
 ## 👨🏻‍💻 Stats
