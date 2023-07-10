@@ -9,9 +9,9 @@
 </a>
   
 ## 🙇 About me
-- Mobile Developer at Daccord Music.
+- Full Stack Developer at CTC Tech.
 - Computer Science student at UFAPE-PE, Brazil.
-- Currently learning **Kotlin** & **Flutter**.
+- Currently learning **Flutter** and **Laravel**
 - Interest in **Mobile development** & **Web development**.
 
 ## 👨🏻‍💻 Stats
