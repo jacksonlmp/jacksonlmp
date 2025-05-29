@@ -9,7 +9,7 @@
 </a>
   
 ## 🙇 About me
-- Softwar Engineer at Capyba Software.
+- Software Engineer at Capyba Software.
 - Computer Science student at UFAPE-PE, Brazil.
 - Currently learning **Golang** and **MongoDB**
 - Interest in **Mobile development** & **Web development**.
