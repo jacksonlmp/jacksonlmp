@@ -11,7 +11,7 @@
 ## 🙇 About me
 - Software Engineer at Capyba Software.
 - Computer Science student at UFAPE-PE, Brazil.
-- Currently learning **Golang** and **MongoDB**
+- Currently learning **Golang** and **Django**
 - Interest in **Mobile development** & **Web development**.
 
 ## 👨🏻‍💻 Stats
