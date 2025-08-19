@@ -47,18 +47,12 @@
 </div>
 
 ## 🎧 Spotify Playing
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jacksonlmp&redirect=true)
-
-
   
- ## 🐍 Snake
-<div> 
-  
+## 🐍 Snake 
+![Snake animation](https://github.com/jacksonlmp/jacksonlmp/blob/output/github-contribution-grid-snake.svg)
  
-
-  ![Snake animation](https://github.com/jacksonlmp/jacksonlmp/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## 🚀 Rocketseat
+<a href="https://app.rocketseat.com.br/me/jacksonlmp"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=jacksonlmp&type=card" width="280" alt="Jackson Lima Paes's Rocket ID"/></a>
 
 
