@@ -11,7 +11,7 @@
 ## 🙇 About me
 - Software Engineer at Capyba Software.
 - Computer Scientist - UFAPE-PE, Brazil.
-- Currently learning **Golang** and **Django**
+- Currently learning **React/React native** and **Django**
 - Interest in **Mobile development** & **Web development**.
 
 ## 👨🏻‍💻 Stats
