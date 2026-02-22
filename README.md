@@ -31,6 +31,11 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🤖 AI Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23F4A460.svg?style=for-the-badge&logo=anthropic&logoColor=black)
+
 ### 🛠️ Tools & OS
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
