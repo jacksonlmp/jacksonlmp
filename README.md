@@ -6,7 +6,9 @@
 - Interested in AI-driven platforms, system architecture, and high-performance software.
 
 ## 🖥️ Projects
-- In Progress..
+
+💰 [Cash Control](https://github.com/jacksonlmp/cash_control) — Personal finance management platform.  
+💳 [Agiota Web](https://github.com/jacksonlmp/agiota_web) — Loan tracking and debt management web system.
 
 ## 🧠 Tech Stack
 
