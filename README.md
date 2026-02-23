@@ -10,7 +10,7 @@
 💰 [Cash Control](https://github.com/jacksonlmp/cash_control) — Personal finance management platform.  
 💳 [Agiota Web](https://github.com/jacksonlmp/agiota_web) — Loan tracking and debt management web system.  
 🧠 [Habit Tracker]() — Habit tracking and productivity system (Coming soon...).  
-🐶 [PetKeep]() — Pet management and care tracking platform (Coming soon...).  
+🐶 [PetKeep](https://github.com/jacksonlmp/petkeep) — Pet management and care tracking platform (In development...).  
 
 ## 🧠 Tech Stack
 
