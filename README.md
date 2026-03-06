@@ -10,6 +10,8 @@
 💰 [Cash Control](https://github.com/jacksonlmp/cash_control) — Personal finance management platform.  
 💳 [Agiota Web](https://github.com/jacksonlmp/agiota_web) — Loan tracking and debt management web system.  
 🐶 [PetKeep](https://github.com/jacksonlmp/petkeep) — Pet management and care tracking platform (In development...).  
+🛍️ [ShopShare](https://github.com/jacksonlmp/shopshare) - A real-time shared shopping list app for families and groups (In development...).
+
 
 ## 🧠 Tech Stack
 
@@ -39,6 +41,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-%23F4A460.svg?style=for-the-badge&logo=anthropic&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-%23232F3E.svg?style=for-the-badge&logo=cursor&logoColor=black)
 
 ### 🛠️ Tools & OS
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
