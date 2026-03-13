@@ -8,9 +8,12 @@
 ## 🖥️ Projects
 
 💰 [Cash Control](https://github.com/jacksonlmp/cash_control) — Personal finance management platform.  
-💳 [Agiota Web](https://github.com/jacksonlmp/agiota_web) — Loan tracking and debt management web system.  
 🐶 [PetKeep](https://github.com/jacksonlmp/petkeep) — Pet management and care tracking platform (In development...).  
 🛍️ [ShopShare](https://github.com/jacksonlmp/shopshare) - A real-time shared shopping list app for families and groups (In development...).
+
+### Legacy
+
+💳 [Agiota Web](https://github.com/jacksonlmp/agiota_web) — Loan tracking and debt management web system.  
 
 
 ## 🧠 Tech Stack
