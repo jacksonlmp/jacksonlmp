@@ -44,6 +44,8 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-%23F4A460.svg?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Cursor](https://img.shields.io/badge/Cursor-%23232F3E.svg?style=for-the-badge&logo=cursor&logoColor=black)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### 🛠️ Tools & OS
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
